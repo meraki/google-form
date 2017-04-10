@@ -267,13 +267,13 @@ function onFormSubmit(e) {
   store.templateOpt = itemResponses[2].getResponse();
   
   // Input the proper template ID's below
-  if (store.templateOpt = "GUEST 10MB") {
+  if (store.templateOpt == "GUEST 10MB") {
     store.templateId = '<template ID>';
   }
-  if (store.templateOpt = "GUEST 50MB") {
+  if (store.templateOpt == "GUEST 50MB") {
     store.templateId = '<template ID>';
   }
-  if (store.templateOpt = "GUEST 100MB") {
+  if (store.templateOpt == "GUEST 100MB") {
     store.templateId = '<template ID>';
   }
   
