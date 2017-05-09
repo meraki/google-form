@@ -22,9 +22,9 @@ https://forms.google.com
 
 <img src="images/GoogleScriptsMenu.png" alt="Google Scripts Menu" width=400/>
 
-## Paste the contents of this repository's `code.gs` file into the Google Scripts IDE.
+### Paste the contents of this repository's `example-registerMerakiAdmin-form.gs` file into the Google Scripts IDE.
 
-- [code.gs](code.gs)
+- [example-registerMerakiAdmin-form.gs](example-registerMerakiAdmin-form.gs)
 - update the **API_KEY**, **ORG_ID** and **SHARD** to match your settings.
 - save your changes
 
